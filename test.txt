@@ -5,3 +5,8 @@ D
 E
 F
 Det er en del af alfabetet
+1
+2
+3
+4
+Her har jeg addetet nogle tal
